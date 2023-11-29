@@ -29,6 +29,12 @@
       ],
       "@app/infra/*": [
         "libs/infra/src/*"
+      ],
+      "@app/shared": [
+        "libs/shared/src"
+      ],
+      "@app/shared/*": [
+        "libs/shared/src/*"
       ]
     }
   }

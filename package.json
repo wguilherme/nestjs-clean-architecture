@@ -71,7 +71,8 @@
     ],
     "moduleNameMapper": {
       "^@app/domain(|/.*)$": "<rootDir>/libs/domain/src/$1",
-      "^@app/infra(|/.*)$": "<rootDir>/libs/infra/src/$1"
+      "^@app/infra(|/.*)$": "<rootDir>/libs/infra/src/$1",
+      "^@app/shared(|/.*)$": "<rootDir>/libs/shared/src/$1"
     }
   }
 }

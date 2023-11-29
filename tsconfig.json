@@ -23,6 +23,12 @@
       ],
       "@app/domain/*": [
         "libs/domain/src/*"
+      ],
+      "@app/infra": [
+        "libs/infra/src"
+      ],
+      "@app/infra/*": [
+        "libs/infra/src/*"
       ]
     }
   }
